@@ -1,10 +1,10 @@
 ## ATS Tester - checker.py - 2025
 
-# A tool to help check whether our CV is already good enough for ATS machine or not.
+### A tool to help check whether our CV is already good enough for ATS machine or not.
 
 ## Standards within this tools
 
-# Tools checking if this heading label or section label are presents in the documents : 
+### Tools checking if this heading label or section label are presents in the documents : 
 - Experience    : Ressemble part containing infromation related to work experiences
 - Education     : Inspecting part if education history or any similar information with education label existed.
 - Skill         : Looking for a section containing skill is present
